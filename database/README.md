@@ -17,4 +17,6 @@ cd qdrant
 cargo build --release --bin qdrant
 ```
 ### run 
+```
 ./target/release/qdrant
+```
